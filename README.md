@@ -7,10 +7,10 @@ This repository contains Sem2 2023 solutions for 1603.
   <code>There are several ways to save this repository on your device. Two of these options include:</code>
 </summary>
 
-- [Downloading repository as ZIP](https://github.com/carrot2803/1603-Past-Papers/archive/refs/heads/master.zip)
+- [Downloading repository as ZIP](https://github.com/carrot2803/03-Finals-Solutions/archive/refs/heads/master.zip)
 - Running the following command in a terminal, provided the [GitHub CLI](https://cli.github.com/) has been previously installed:
 ```sh
-git clone https://github.com/carrot2803/1603-Past-Papers.git
+git clone https://github.com/carrot2803/03-Finals-Solutions.git
 ```
 </details>
 
