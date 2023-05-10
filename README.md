@@ -29,7 +29,7 @@ The "new" keyword is used to dynamically allocate memory for nodes in linked lis
 These functions are not covered in the course syllabus but are useful for convenient sample outputs.
 
 ## Contributing
-If you find an error in any of the past paper questions, or you want to add more questions to the repository, feel free to contribute. You can fork the repository, make your changes, and submit a pull request. I appreciate any help in improving this repository. For example the addition of high quality comments.
+If you find an error in any of the solutions, or you want to add alternative solutions to the repository, or add comments, feel free to contribute. You can fork the repository, make your changes, and submit a pull request. I appreciate any help in improving this repository. For example the addition of high quality comments.
 
 ## Support
 
