@@ -2,9 +2,9 @@
 #include <prototypes.h>
 using namespace std;
 
-struct myNode{ // Part i
-    int data;
-    Node *next;
+struct myQueue{ // Part i
+    Node *front;
+    Node *rear;
 };
 
 void myEnqueue(Queue* q, int n) {  // spelt weird to avoid overflow
@@ -22,7 +22,6 @@ int main() { // main for testing
 
     while (!isEmpty(q)) 
         cout << dequeue(q) << " ";
-
 
     return 0;
 }
